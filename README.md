@@ -61,7 +61,6 @@ All data preparation steps are documented in the Jupyter notebook.
 
 ---
 
-
 ## Project Structure
 
 ```text
@@ -77,6 +76,7 @@ All data preparation steps are documented in the Jupyter notebook.
 │
 ├── README.md
 ```
+
 ## Key Design Decisions
 - Backlog percentage is calculated relative to total workload to avoid misleading results when filtering by request status.
 - Status values were transformed from boolean values to semantic labels (Open / Closed) for improved usability.
