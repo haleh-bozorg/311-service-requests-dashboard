@@ -1,7 +1,7 @@
 # 3-1-1 Service Requests Dashboard (2025)
 
 ## Project Overview
-This project analyzes municipal 3-1-1 service requests using an end-to-end data analytics workflow.
+This project analyzes municipal 3-1-1 service requests using an end-to-end data analytics workflow.  
 The goal is to evaluate operational performance, identify bottlenecks, and present actionable insights through an interactive Power BI dashboard.
 
 The analysis focuses on **2025 data** to provide timely and relevant insights.
@@ -18,10 +18,10 @@ The analysis focuses on **2025 data** to provide timely and relevant insights.
 ---
 
 ## Key KPIs
-- **Total Requests**
-- **Closed Requests**
-- **Backlog Percentage**
-- **Median Resolution Time (Days)**
+- Total Requests
+- Closed Requests
+- Backlog Percentage
+- Median Resolution Time (Days)
 
 ---
 
@@ -49,15 +49,15 @@ Key steps included:
 
 All data preparation steps are documented in the Jupyter notebook.
 
-📓 Notebook: `notebooks/01_data_cleaning_and_kpis.ipynb`
+📓 **Notebook:** `notebooks/01_data_cleaning_and_kpis.ipynb`
 
 ---
 
 ## Technology Stack
-- **Python** (Pandas, Jupyter Notebook)
-- **Power BI**
-- **DAX**
-- **GitHub**
+- Python (Pandas, Jupyter Notebook)
+- Power BI
+- DAX
+- GitHub
 
 ---
 
