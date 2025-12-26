@@ -89,3 +89,8 @@ This dashboard provides a clear operational view of municipal service performanc
 - Highlighting backlog levels and resolution efficiency
 - Identifying departments with longer resolution times
 - Enabling stakeholders to monitor workload trends over time
+
+## Author
+Haleh Bozorgnia  
+Junior Data Analyst  
+Tools: Python | SQL | Power BI | Data Visualization
